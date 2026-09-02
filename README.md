@@ -13,7 +13,7 @@
 | Daniel Solares   | @danntdm      | Project Manager, Data exploration, visualization, overall project coordination            |
 | Kyubin Hyun      | @hyunguy      | Data collection, exploratory data analysis (EDA), dataset documentation                   |
 | Christina Peralta| @nina2k5      | Pipeline organization, cross‑team communication, and integration of analytical outputs    |
-| Kavya Pokharel   | @kavyapokharel|                                                                                           |
+| Kavya Pokharel   | @kavyapokharel| Visualization, Model Training, Dataset, Overall                                                      |
 
 
 ---
